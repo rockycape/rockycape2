@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eSports
-youtubeId: JCa_F5ZMgUc?t=4785
+youtubeId: kqCHEO16Y9k?t=0
 twitchId: KnottyWildHerringEagleEye-budqzDI_DNBOKWj7
 twitchDomain: rockycape.github.io
 ---
