@@ -13,7 +13,7 @@ title: Wiki
 |Sun| 25/09/2022| Olinda National Rhododendron Gardens|
 |Sat| 15/10/2022| Frankston George Pentland Gardens Sweetwater Creek|
 |Sun| 06/11/2022| Blackwood Whipstick Loop Garden of St Erth|
-|Sat| 26/12/2022| Melbourne gardens Statues| memorials and fountains  President's Walk|
+|Sat| 26/12/2022| Melbourne gardens statues memorials and fountains President's Walk|
 |Mon| 05/12/2022| Christmas Dinner (Kooyong)|
 |Sun| 05/02/2023| Newport to Williamstown and return|
 |Wed| 22/02/2023| Powelltown Reids Tramway Walk Loop|
