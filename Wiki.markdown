@@ -20,7 +20,7 @@ title: Wiki
 |Tues| 14/03/2023| Uncup Getaway Venue TBA|
 |Wed| 15/03/2023| Uncup Getaway Venue TBA|
 |Thurs| 16/03/2023| Uncup Getaway Venue TBA|
-|Sat| 01/04/2023| Belgrave Birdsland Reserve and Lysterield Park|
+|Sat| 01/04/2023| Belgrave Birdsland Reserve and Lysterfield Park|
 |Sun| 23/04/2023| Flinders Bushrangers Bay|
 |Sat| 06/05/2023| Christmas Hills Sugarloaf dam|
 |Sun| 04/06/2023| Brisbane Ranges Boar Gully Loop|
