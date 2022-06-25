@@ -5,7 +5,7 @@ title: Wallaby
 
 |Day| Date| Event|
 |:----|:----|:----|
-|Saturday| 09/07/2022| East Ivanhoe Yarra River Billabongs and Golf Courses|
+|Sun| 10/07/2022| East Ivanhoe Yarra River Billabongs and Golf Courses|
 |Wed| 27/07/2022| Werribee Gorge|
 |Sun| 14/08/2022| Footscray Maribyrnong River 11 bridges walk|
 |Sat| 3/09/2022| Burnley Gardens and Yarra banks|
