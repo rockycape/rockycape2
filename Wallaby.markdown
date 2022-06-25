@@ -17,9 +17,9 @@ title: Wallaby
 |Mon| 05/12/2022| Christmas Dinner (Kooyong)|
 |Sun| 05/02/2023| Newport to Williamstown and return|
 |Wed| 22/02/2023| Powelltown Reids Tramway Walk Loop|
-|Tues| 14/03/2023| Uncup Getaway Venue TBA|
+|Tue| 14/03/2023| Uncup Getaway Venue TBA|
 |Wed| 15/03/2023| Uncup Getaway Venue TBA|
-|Thurs| 16/03/2023| Uncup Getaway Venue TBA|
+|Thu| 16/03/2023| Uncup Getaway Venue TBA|
 |Sat| 01/04/2023| Belgrave Birdsland Reserve and Lysterfield Park|
 |Sun| 23/04/2023| Flinders Bushrangers Bay|
 |Sat| 06/05/2023| Christmas Hills Sugarloaf dam|
