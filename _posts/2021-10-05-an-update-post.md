@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Cycling"
-categories: cycling
+title: "Adding comments to this markdwon post that don't display when published as a webpage"
+categories: web
 ---
 
 blah blah blah
 
 {% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
+This is a comment that won't appear on this webpge.
 {% endcomment %}
 
 
