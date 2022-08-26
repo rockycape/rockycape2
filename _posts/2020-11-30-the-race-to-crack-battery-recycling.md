@@ -48,8 +48,6 @@ In 2019, the Department of Energy tapped Argonne National Laboratory to lead its
 
 "The goal of the center is to come up with something that will convince industry to take this on," says Linda Gaines, the ReCell Center chief scientist and a transportation systems analyst at Argonne National Laboratory. "We need to answer all the questions about what this is going to look like when it's scaled up."
 
-Photograph: Mark Lopez/Argonne National Laboratory
-
 The challenge with direct recycling is that cells are not designed with material recovery in mind. Instead, they're manufactured to produce energy for a long time, and as cheaply as possible. Generally speaking, recycling isn't even an afterthought. And this makes them hard to unpack. Individual cells are complex systems that have several chemically-distinct components mixed---sometimes welded---together in a small volume. These become challenging to extract without the help of strong acids or extreme temperatures.
 
 For now, Gaines and her colleagues are focused on figuring out how to salvage the structure of batteries that already exist. In the future, however, it's possible that batteries may be made to be recycled---but only if that's cost effective and doesn't affect performance. "Designing for recycling is a very important area, but you can't sacrifice performance at all, or nobody's going to want to do it," says Gaines. "The best way to attack that isn't obvious, and to be honest, there hasn't been a lot of really good work in that area."
