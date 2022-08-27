@@ -53,8 +53,8 @@ minima:
 # Build settings
 theme: minima
 
-paginate: 1
-paginate_path: "/page/:num/"
+paginate: 10
+paginate_path: posts/page:num/
 
 plugins:
  - jekyll-feed
