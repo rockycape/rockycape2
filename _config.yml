@@ -4,8 +4,6 @@ email:
 description: > # this means to ignore newlines until "show_excerpts:"
   This website is about defending the planet, defeating poverty, and kids walking & cycling to school.
 
-paginate: 1
-paginate_path: "/page/:num/"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -54,6 +52,9 @@ minima:
 
 # Build settings
 theme: minima
+
+paginate: 1
+paginate_path: "/page/:num/"
 
 plugins:
  - jekyll-feed
