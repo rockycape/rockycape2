@@ -18,7 +18,7 @@ Take a look at the animation above -- we guarantee you'll be hearing the jingle 
 
 There are three types of label classifications:
 
-![](https://recyclingnearyou.com.au/images/masters/image-10272-arl-description.png)
+![](/assets/AustRecycleLabel.png)  
 
 ### WHY DO WE NEED IT?
 
