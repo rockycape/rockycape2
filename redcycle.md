@@ -72,41 +72,41 @@ You may have seen the below instructions on your packaging items! Click on each 
 
 *Hover over the labels for more information*
 
--   ![](https://recyclingnearyou.com.au/images/arl/return-to-store.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/return-to-store.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/rinse-return.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/rinse-return.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/remove-clip-return.png)
+-   ![](https://recyclingnearyou.com.au/images/arl/remove-clip-return.png){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/store-drop-off.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/store-drop-off.jpg){:width="10%"}   
 
--   ![](https://recyclingnearyou.com.au/images/arl/rinse-store-drop-off.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/rinse-store-drop-off.jpg){:width="10%"}   
 
--   ![](https://recyclingnearyou.com.au/images/arl/remove-clip-dropoff.png)
+-   ![](https://recyclingnearyou.com.au/images/arl/remove-clip-dropoff.png){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/scrunch-ball.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/scrunch-ball.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/make-ball.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/make-ball.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/fold.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/fold.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/crush-replace.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/crush-replace.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/leave-attached.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/leave-attached.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/remove-handles.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/remove-handles.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/check-locally.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/check-locally.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/empty-to-recycle.png)
+-   ![](https://recyclingnearyou.com.au/images/arl/empty-to-recycle.png){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/flatten.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/flatten.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/separate.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/separate.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/place-in-envelope.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/place-in-envelope.jpg){:width="10%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/transfer-station.jpg)
+-   ![](https://recyclingnearyou.com.au/images/arl/transfer-station.jpg){:width="10%"}  
 
 * * * * *
 
