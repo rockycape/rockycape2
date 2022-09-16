@@ -98,7 +98,7 @@ You may have seen the below instructions on your packaging items! Click on each 
 
 -   ![](https://recyclingnearyou.com.au/images/arl/check-locally.jpg){:width="20%"}  
 
--   ![](https://recyclingnearyou.com.au/images/arl/empty-to-recycle.png){:width="20%"}  
+-   ![](https://recyclingnearyou.com.au/images/arl/empty-to-recycle.png){:width="30%"}  
 
 -   ![](https://recyclingnearyou.com.au/images/arl/flatten.jpg){:width="20%"}  
 
