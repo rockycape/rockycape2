@@ -46,19 +46,19 @@ Like what you are watching?
 
 ### KNOW THE LABELS
 
-![](https://recyclingnearyou.com.au/images/masters/image-10273-arl-box.jpg)
+![](https://recyclingnearyou.com.au/images/masters/image-10273-arl-box.jpg){:width="10%"}  
 
 Recyclable: The coloured/opaque recycling symbol, means that this piece of packaging can be placed in the recycling bin as it is. Each piece of packaging with this label has to be placed separately in the recycling bin.
 
 * * * * *
 
-![](https://recyclingnearyou.com.au/images/masters/image-10274-arl-tray.jpg)
+![](https://recyclingnearyou.com.au/images/masters/image-10274-arl-tray.jpg){:width="10%"}  
 
 Conditionally Recyclable: The clear/ transparent recycling symbol means that you must follow the instructions to recycle this packaging component. If you don't follow the instructions it has to go in the rubbish bin, as it will otherwise not be recycled and cause contamination to the recycling stream.
 
 * * * * *
 
-![](https://recyclingnearyou.com.au/images/masters/image-10276-arl-wrap.jpg)
+![](https://recyclingnearyou.com.au/images/masters/image-10276-arl-wrap.jpg){:width="10%"}  
 
 Not Recyclable: The bin symbol, means that this piece of packaging is not recyclable and you must place it in the rubbish bin. DO NOT place it in the recycling bin. It will not get recycled and it will contaminate the recycling stream.
 
@@ -68,7 +68,7 @@ Not Recyclable: The bin symbol, means that this piece of packaging is not recyc
 
 You may have seen the below instructions on your packaging items! Click on each instruction below to find out why you need to follow them for your packaging to be recycled.
 
-![](https://recyclingnearyou.com.au/images/masters/image-10277-arl-conditional.jpg)
+![](https://recyclingnearyou.com.au/images/masters/image-10277-arl-conditional.jpg){:width="10%"}   
 
 *Hover over the labels for more information*
 
