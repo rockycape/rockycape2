@@ -12,7 +12,6 @@ author:
 
 Exclusive by defence reporter [Andrew Greene](https://www.abc.net.au/news/andrew-greene/4827818)
 
-Posted 14h ago14 hours ago, updated 10h ago10 hours ago
 
 ![A woman uses her phone outside an Optus store as a man looks at his.](https://live-production.wcms.abc-cdn.net.au/5292aac79e7fde6360cad01842c21957?impolicy=wcms_crop_resize&cropH=2436&cropW=4331&xPos=0&yPos=73&width=862&height=485)
 
@@ -55,7 +54,6 @@ Earlier on Friday, the ABC put specific questions to Optus CEO Kelly Bayer Rosma
 
 "I know people are hungry for details about the exact specificity of how this attack could occur, but it is the subject of criminal proceedings and so we will not be divulging details about that," Ms Bayer Rosmarin told an online media briefing. 
 
-[
 
 ### What we know about the Optus cyber attack
 
