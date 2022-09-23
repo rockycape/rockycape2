@@ -21,8 +21,6 @@ Help keep family & friends informed by sharing this article
 
 abc.net.au/news/optus-rejects-claim-hack-likely-result-of-human-error/101468846
 
-COPY LINKSHARE
-
 Optus has strenuously denied "human error" being a contributing factor in a data breach that inadvertently allowed cyber criminals to steal personal details of potentially millions of customers.
 
 Key points:
