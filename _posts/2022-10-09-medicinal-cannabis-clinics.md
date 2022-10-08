@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "medicinal cannabis prescribing doctors - Australia "
+title: "medicinal cannabis prescribing doctors"
 categories: health
 author:
 - Matilda Marozzi
