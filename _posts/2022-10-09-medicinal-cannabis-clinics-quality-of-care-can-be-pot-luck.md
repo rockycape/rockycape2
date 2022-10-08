@@ -7,11 +7,6 @@ author:
 ---
 
 
-
-
-
-
-
 [Background Briefing](https://www.abc.net.au/radionational/programs/backgroundbriefing/)
 
  / By [Matilda Marozzi](https://www.abc.net.au/news/matilda-marozzi/9629566) for [ABC Investigations](https://www.abc.net.au/news/story-streams/investigations/)
