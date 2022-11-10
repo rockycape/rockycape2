@@ -6,11 +6,6 @@ author:
 - Laura Chung
 ---
 
-More than one million printer cartridges were meant to be recycled. Instead, they're in storage
-===============================================================================================
-
-[Laura Chung](https://www.theage.com.au/by/laura-chung-h17jx8 "Articles by Laura Chung")November 10, 2022 --- 12.37pm
-
 More than a million used printer cartridges are being stockpiled and will not be recycled until next year after a warehouse fire at a recycling facility brought the industry to a standstill.
 
 The used printer cartridges are collected for recycling by a program managed in part by environmental charity Planet Ark, which relied on the Melbourne-based Close the Loop facility.
