@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "medicinal cannabis prescribing doctors"
+title: "Close the Loop fire impacts both REDcycle and Cartridges 4 Planet Ark"
 categories: recycle
 author:
 - Laura Chung
