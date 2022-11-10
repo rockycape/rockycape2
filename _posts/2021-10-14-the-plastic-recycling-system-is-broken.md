@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The plastic recycling system is broken - here's how we can fix it"
-categories: planet
+categories: recycle
 ---
 
 

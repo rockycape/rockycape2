@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Councils’ rubbish deal crumbles over 25-year trash commitment"
-categories: recycling
+categories: recycle
 ---
 
 [link to original age article](https://www.theage.com.au/politics/victoria/councils-dump-hypocritical-25-year-waste-deal-20220321-p5a6fc.html)
