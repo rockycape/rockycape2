@@ -12,9 +12,9 @@ The used printer cartridges are collected for recycling by a program managed in 
 
 ![Emergency authorities attended the recycling facility in Melbourne's north in June following reports of a fire.](https://static.ffx.io/images/$zoom_0.552%2C$multiply_0.5855%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/97e8c5777e2495172e4e0e0b5134df73d0cb7228)
 
-Emergency authorities attended the recycling facility in Melbourne's north in June following reports of a fire.*Nine*none
+Emergency authorities attended the recycling facility in Melbourne's north in June following reports of a fire.
 
-But a fire five months ago damaged the facility, leading to a collapse of its recycling effort which was also relied on by REDcycle - a scheme supermarket giants Coles and Woolworths used to recycle soft plastic that was billed as[Australia's largest plastic bag recycling program.](https://www.theage.com.au/link/follow-20170101-p5bw9q)
+But a fire five months ago damaged the facility, leading to a collapse of its recycling effort which was also relied on by REDcycle - a scheme supermarket giants Coles and Woolworths used to recycle soft plastic that was billed as [Australia's largest plastic bag recycling program.](https://www.theage.com.au/link/follow-20170101-p5bw9q)
 
 Now it can be revealed one of the largest printer recycling schemes has also been caught up, leaving 1.1 million cartridges in storage.
 
