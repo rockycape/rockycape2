@@ -6,6 +6,7 @@ author:
 - Sezen Bakan
 ---
 
+![](https://thenewdaily-com-au.cdn.ampproject.org/ii/AW/s/thenewdaily.com.au/wp-content/uploads/2022/01/1643238742-Sezen-Bakan-Headshot.png?fit=96%2C89) 
 
 
 
@@ -13,7 +14,7 @@ author:
 
 Consumers are no longer able to return soft plastics to their local supermarkets for recycling. *Photo: TND*
 
-![](https://thenewdaily-com-au.cdn.ampproject.org/ii/AW/s/thenewdaily.com.au/wp-content/uploads/2022/01/1643238742-Sezen-Bakan-Headshot.png?fit=96%2C89) 
+
 
 Australia's biggest supermarkets are banding together after the REDcycle debacle, but a sole focus on recycling could be neglecting the bigger plastic issue.
 
