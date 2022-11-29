@@ -8,9 +8,9 @@ author:
 
 ![](https://thenewdaily-com-au.cdn.ampproject.org/ii/AW/s/thenewdaily.com.au/wp-content/uploads/2022/01/1643238742-Sezen-Bakan-Headshot.png?fit=96%2C89) 
 
+![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjU0MCIgd2lkdGg9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=)  
 
-
-![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjU0MCIgd2lkdGg9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=)![Supermarkets recycling](https://thenewdaily-com-au.cdn.ampproject.org/ii/AW/s/thenewdaily.com.au/wp-content/uploads/2019/04/1667983188-REDcycle-soft-plastics.jpg?resize=960%2C540)
+![Supermarkets recycling](https://thenewdaily-com-au.cdn.ampproject.org/ii/AW/s/thenewdaily.com.au/wp-content/uploads/2019/04/1667983188-REDcycle-soft-plastics.jpg?resize=960%2C540)
 
 Consumers are no longer able to return soft plastics to their local supermarkets for recycling. *Photo: TND*
 
