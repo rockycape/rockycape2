@@ -39,7 +39,8 @@ At the time, REDcycle boss Liz Kasell blamed the company's failure on ballooning
 
 "This means if you imagine a REDcycle bin and for five years it would have filled about once a day and we maintained that capacity, now all of a sudden it was filling 15 times a day," she said.
 
-> [Tweet from @chareli](https://twitter.com/chareli/status/1590330042135220226?s=20&t=paqwRC27TQWxV1ZZ9AkhLg)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How disappointing to find out that the only place to recycle soft plastics just keeps them in storage and probably eventually trashes them. <br>Ffs. Gotta do better, Australia! 🥲😐😶 <a href="https://t.co/ZRPjiaaJSu">https://t.co/ZRPjiaaJSu</a></p>&mdash; chareli (@chareli) <a href="https://twitter.com/chareli/status/1590330042135220226?ref_src=twsrc%5Etfw">November 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 
 The company's challenges to keep up with demand reveal the elephant in the room -- the world is using too much plastic.
 
