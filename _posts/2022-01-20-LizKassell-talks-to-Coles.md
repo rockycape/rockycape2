@@ -6,7 +6,7 @@ author:
 - Coles
 ---
 
-
+(original article)[https://colescareers.com.au/au/en/blogarticle/the-new-life-of-your-soft-plastic]  
 
 **Ever wondered what happens to your soft plastics after you drop them in a REDcycle bin at a Coles supermarket? You might find them in road construction, building work, even back at the store as a bench or shopping trolley. **
 
