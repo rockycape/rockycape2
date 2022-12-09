@@ -35,18 +35,6 @@ EPA Victoria CEO Lee Miezis said it was an offence to mislead the EPA and REDcyc
 
 REDcycle said in a statement on Friday it was assisting with investigations and would continue to "fully support" the work of the EPA.
 
-RELATED ARTICLE
----------------
-
-[
-
-![explainers plastics 2022](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_0.5127%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/48ec4ff20433f8514b73c5495ce3371c3127fb3d)
-
-](https://www.theage.com.au/environment/sustainability/with-no-recycling-what-should-you-do-with-your-plastic-bags-and-pasta-packets-20221109-p5bwqu.html)
-
-##### Explainer
-
-##### [Recycling](https://www.theage.com.au/topic/recycling-jdp)
 
 ### [With no recycling, what should you do with your plastic bags and pasta packets?](https://www.theage.com.au/environment/sustainability/with-no-recycling-what-should-you-do-with-your-plastic-bags-and-pasta-packets-20221109-p5bwqu.html)
 
