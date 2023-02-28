@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Africa
+title: africa
 permalink: /africa/
 youtubeId: XWkEX6b7zPo
 ---

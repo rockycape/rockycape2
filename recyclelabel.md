@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RecycleLabel
+title: recyclelabel
 ---
 
 (AUSTRALASIAN) RECYCLING LABEL
