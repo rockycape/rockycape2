@@ -6,8 +6,9 @@ author:
 - Chris Vedelago
 ---
 
-[Inside the REDcycle Collapse - Pleaae Explain Podcast by theage and smh on omny.fm](https://omny.fm/shows/please-explain-1/millions-of-plastic-bags-go-to-landfill-inside-the#sharing)   
-[Inside the REDcycle Collapse - Inside the REDcycle Collapse - Pleaae Explain Podcast by theage and smh (alternate link)](/rockycape2/assets/Inside-the-REDcycle-collapse.mp3)  
+[Inside the REDcycle Collapse - Please Explain Podcast by theage and smh on omny.fm](https://omny.fm/shows/please-explain-1/millions-of-plastic-bags-go-to-landfill-inside-the#sharing)   
+  
+[Inside the REDcycle Collapse - Inside the REDcycle Collapse - Please Explain Podcast by theage and smh (alternate link)](/rockycape2/assets/Inside-the-REDcycle-collapse.mp3)  
 
 
 ##### By[Chris Vedelago](https://www.theage.com.au/by/chris-vedelago-hveq4 "Articles by Chris Vedelago")
