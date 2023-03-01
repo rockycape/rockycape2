@@ -6,7 +6,7 @@ author:
 - Chris Vedelago
 ---
 
-[Inside the REDcycle Collapse](assets/Inside-the-REDcycle-collapse.mp3)
+[Inside the REDcycle Collapse](/assets/Inside-the-REDcycle-collapse.mp3)
 
 
 ##### By[Chris Vedelago](https://www.theage.com.au/by/chris-vedelago-hveq4 "Articles by Chris Vedelago")
