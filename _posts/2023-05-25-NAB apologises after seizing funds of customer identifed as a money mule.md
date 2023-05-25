@@ -7,6 +7,8 @@ author:
 - Loretta Florance
 ---
 
+[Link to 7.30 report video](https://www.abc.net.au/news/2023-05-24/money-mules-and-their-integral-role-in-laundering/102388932)
+
 [original link](https://www.abc.net.au/news/2023-05-25/mojib-rahman-money-mule-nab/102381324?)
 
 By national consumer affairs reporter [Michael Atkin](https://www.abc.net.au/news/michael-atkin/5778984) and the Specialist Reporting Team's [Loretta Florance](https://www.abc.net.au/news/loretta-florance/5751762)
