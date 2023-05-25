@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Money mules are involved in the majority of scam reports, ACCC says"
+title: "Jenny lost 300000 to remote access scam commonwealth bank"
 categories: cybersecurity
 author:
 - Michael Atkin
 - Loretta Florance
 ---
 
-
+[original link](https://www.abc.net.au/news/2023-05-24/jenny-lost-300000-to-remote-access-scam-commonwealth-bank/102263542)
 
 
 [7.30](https://www.abc.net.au/news/programs/730/)
