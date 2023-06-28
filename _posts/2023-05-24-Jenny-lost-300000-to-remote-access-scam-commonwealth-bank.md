@@ -83,7 +83,7 @@ Duration: 1 minute1m
 0 seconds of 0 secondsVolume 90%
 
 
-[Jenny speaks to the CommBank](assets/JennySpeaksToTheCommBank.mp4)  
+[Jenny speaks to the CommBank](/assets/JennySpeaksToTheCommBank.mp4)  
 
 
 Jenny speaks to Commonwealth Bank after she was scammed
