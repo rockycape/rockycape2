@@ -76,12 +76,7 @@ Listening back to Jenny's call with the Commonwealth Bank, you can hear the pani
 
 Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume.
 
-WATCH
-
-Duration: 1 minute1m
-
-0 seconds of 0 secondsVolume 90%
-
+WATCH - Duration: 1 minute
 
 [Jenny speaks to the CommBank](/assets/JennySpeaksToTheCommBank.mp4)  
 
