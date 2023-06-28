@@ -78,7 +78,8 @@ Space to play or pause, M to mute, left and right arrows to seek, up and down ar
 
 WATCH - Duration: 1 minute
 
-[Jenny speaks to the CommBank](/assets/JennySpeaksToTheCommBank.mp4)  
+[Jenny speaks to the CommBank](rockycape/rockycape2/assets/JennySpeaksToTheCommBank.mp4)  
+
 
 
 Jenny speaks to Commonwealth Bank after she was scammed
