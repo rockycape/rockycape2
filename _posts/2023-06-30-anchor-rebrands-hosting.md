@@ -10,8 +10,8 @@ author:
 30 June 2023 - Anchor (anchor.com.au) rebrands hosting to Hostopia's Digital Pacific
 
 
-Background on Digital Pacific
------------------------------
+[Original article on Digital Pacific](https://www.crn.com.au/news/australian-hosting-provider-digital-pacific-acquired-by-hostopia-for-52-million-470804)  
+
 
 Aug 15 2017
 
@@ -22,29 +22,7 @@ Australian hosting provider Digital Pacific acquired by Hostopia for $52 million
 
 Andrew Koaladin, Digital Pacific
 
-### IN THE SPOTLIGHT
 
-[![](https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fPipeline_Promotion_CMS_(4).png&h=128&w=207&c=1&s=1)
-
-Join us on the Gold Coast and learn, network & grow your revenue.
------------------------------------------------------------------
-
-](https://www.crn.com.au/news/pipeline-2023-the-it-channel-event-of-the-year-596828?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=article_470804)[
-
-HPE Discover 2023 sees new Greenlake services
----------------------------------------------
-
-](https://www.crn.com.au/news/hpe-discover-2023-sees-new-greenlake-services-597141?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=article_470804)[
-
-The business leaders "hiding" chronic illness
----------------------------------------------
-
-](https://www.crn.com.au/channelacademy/the-business-leaders-hiding-chronic-illness-597088?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=article_470804)[
-
-Is it time to prepare for a surge in IT M&A?
---------------------------------------------
-
-](https://www.crn.com.au/video/is-it-time-to-prepare-for-a-surge-in-it-ma-596718?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=article_470804)
 
 Digital Pacific has been acquired by the Australian arm of US company Deluxe Corp for $52 million as the consolidation of the local hosting sector continues at pace.
 
