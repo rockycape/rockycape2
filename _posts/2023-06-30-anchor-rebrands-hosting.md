@@ -10,7 +10,6 @@ author:
 30 June 2023 - Anchor (anchor.com.au) rebrands hosting to Hostopia's Digital Pacific
 11 Mar 2022 - Hostopia Australia (incl. Crazy Domains) acquired by US ecommerce firm Newfold Digital
 
-
 Hostopia Australia acquired by US ecommerce firm Newfold Digital
 ================================================================
 
@@ -44,6 +43,8 @@ The following year, the company also [made a bid to acquire Webcentral Group](h
 
 
 [Original article on Digital Pacific](https://www.crn.com.au/news/australian-hosting-provider-digital-pacific-acquired-by-hostopia-for-52-million-470804)  
+
+
 
 
 Aug 15 2017
