@@ -8,6 +8,39 @@ author:
 ---
 
 30 June 2023 - Anchor (anchor.com.au) rebrands hosting to Hostopia's Digital Pacific
+11 Mar 2022 - Hostopia Australia (incl. Crazy Domains) acquired by US ecommerce firm Newfold Digital
+
+
+Hostopia Australia acquired by US ecommerce firm Newfold Digital
+================================================================
+
+[Nico Arboleda ](https://www.crn.com.au/author/nico-arboleda-1179112)Mar 11, 2022 11:07AM
+
+US web and commerce technology firm Newfold Digital has acquired hosting services company Hostopia Australia from payments and business technology company Deluxe for an undisclosed sum.
+
+The acquisition expands Newfold Digital's presence in Australia, while Hostopia Australia customers would gain access to Newfold's brands, products and customer support. Some of Newfold's brands include Web.com, CrazyDomains.com, Reseller Club and more.
+
+Hostopia also brings in some 50,000 small business customers and 250,000 hosted websites.
+
+"Newfold Digital's mission is centred on helping businesses of all sizes build and grow an online presence, so we are confident our Australia web hosting customers will be in good hands," Deluxe president of cloud solutions Garry Capers said.
+
+"Throughout our ongoing transformation, Deluxe has concentrated our efforts on cross-selling our many platforms, solutions and services to our four million small business customers and more than 4000 enterprise and financial customers.
+
+"To better manage our portfolio of businesses, and to emphasise our cross-sell abilities, it makes sense at this time to sell our Australia hosting operations to further refine our offerings in the North American market."
+
+Newfold Digital president Ed Jay said the company was always looking to grow its footprint and bring Newfold's brands and products to small businesses around the world.
+
+"A trusted web hosting service provider is essential for today's online businesses, and Deluxe's Australia web hosting business is an established platform," Jay said.
+
+"We are excited to welcome their customers and employees as we build upon our previous acquisitions of CrazyDomains and FreeParking to further enhance our position in the region."
+
+Newfold Digital is the result of the merger of Web.com and US-based Endurance Web Presence in February 2021. Prior to this move, Web.com had been active in the Australian mergers and acquisitions space.
+
+In 2019, Web.com acquired [Australian hosting provider Dreamscape Networks](https://www.crn.com.au/news/webcom-to-acquire-aussie-hosting-firm-dreamscape-networks-for-105m-528639)for $105 million, expanding its presence in the country and adding the Crazy Domains and Vodien brands.
+
+The following year, the company also [made a bid to acquire Webcentral Group](https://www.crn.com.au/news/arq-group-rebrands-to-webcentral-group-sold-to-webcom-for-12-million-550387)for $12 million, but was ultimately beaten by [Australian telco services company 5G Networks](https://www.crn.com.au/news/5g-networks-wins-webcentral-bidding-war-with-webcom-553509).
+
+
 
 
 [Original article on Digital Pacific](https://www.crn.com.au/news/australian-hosting-provider-digital-pacific-acquired-by-hostopia-for-52-million-470804)  
