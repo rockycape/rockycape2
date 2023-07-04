@@ -13,7 +13,9 @@ author:
 Hostopia Australia acquired by US ecommerce firm Newfold Digital
 ================================================================
 
-[Nico Arboleda ](https://www.crn.com.au/author/nico-arboleda-1179112)Mar 11, 2022 11:07AM
+[Nico Arboleda ](https://www.crn.com.au/author/nico-arboleda-1179112)
+
+Mar 11, 2022 11:07AM
 
 US web and commerce technology firm Newfold Digital has acquired hosting services company Hostopia Australia from payments and business technology company Deluxe for an undisclosed sum.
 
