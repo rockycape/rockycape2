@@ -3,6 +3,7 @@ layout: post
 title: "REDcycle Program - soft plastic including soft plastic bags"
 categories: recycle
 ---
+[redcycle.net.au/what-to-redcycle/ @ wayback machine](https://web.archive.org/web/20230427125030/https://redcycle.net.au/what-to-redcycle/)  
 
 [redcycle.net.au/what-to-redcycle/](https://redcycle.net.au/what-to-redcycle/)
 
