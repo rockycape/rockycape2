@@ -53,4 +53,3 @@ Now it's established PonyUp for Good generates income through partnerships with 
 [https://rockycape.github.io/rockycape2/assets/ecycle-solutions-annual-report-2021-22.pdf](https://rockycape.github.io/rockycape2/assets/ecycle-solutions-annual-report-2021-22.pdf). 
 
 
-<div style="overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="google-maps-canvas" style="height:100%; width:100%;max-width:100%;"><iframe id="gm-iframe" style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Balwyn%20Library,%20Whitehorse%20Road,%20Balwyn%20VIC,%20Australia&key=AIzaSyAxJT66UUFJiTNgK0tOzll0IKbfsJ_PeRI&zoom=1&maptype=roadmap"></iframe></div><a class="" rel="noopener external" href="https://www.vpnhound.com" target="_blank" id="ref-url">VPNHound</a><style>#google-maps-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none;}</style></div>
