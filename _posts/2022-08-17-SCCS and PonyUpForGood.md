@@ -44,3 +44,6 @@ PonyUp for Good co-founder Mardi Brown said, “We established PonyUp in 2016 to
 Southern Cross Computer Systems specialises in end-user compute, data centre, cloud, cybersecurity and staffing services.
 
 The company dates back 35 years as a larger business that later rebranded to SXiQ in 2017 as part of a restructure. The computer service arm was spun out of SXiQ in 2020, reverting back to the Southern Cross Computer Systems name. SXiQ was acquired by global tech giant IBM in December 2021.
+
+*
+Now it's established PonyUp for Good generates income through partnerships with MRi E-Cycle Solutions and Aeontech and turnover last financial year was around $200,000.
