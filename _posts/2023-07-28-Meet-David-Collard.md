@@ -55,7 +55,6 @@ Collard has told concerned investors the raids came about because of a disgrunt
 
 Unfortunately for Collard and the business, it seems there could be a lot more to see.
 
------------------------------------------------------------
 
 David Collard saw an opening.
 
@@ -159,26 +158,3 @@ Back in happier times Collard told guests at his opulent One World Trade Centr
 
 Life for David Collard is about to become a lot more challenging.
 
-Caption:
-
-David **Collard** exploring Geelong by chopper Picture: Supplied
-
-SaniteX Global chief executive and founder David **Collard**. Picture: Supplied
-
-David **Collard**'s apartment overlooking Central Park: Picture: Supplied
-
-Founder of Australian company, Scale Facilitation, David **Collard** in the One World Trade Center office. Pic Abby Holden
-
-David **Collard** co-owner of Third Chapter clothing label, which is now a large-scale supplier of face masks
-
-Concept image of Recharge Industries, a battery cell manufacturing facility at Avalon.
-
-David **Collard** with Richard Marles. Picture: Supplied
-
-David **Collard**'s apartment overlooking Central Park: Picture: Supplied
-
-Founder and CEO of our parent company, Scale Facilitation, David **Collard** had the unique opportunity to view the potential location of the Recharge Industries™ Gigafactory from the air with Avalon Airport Chief of Infrastructure, Dave Moreland. Supplied
-
-David **Collard** with Marles and Dutton at his office opening. Picture: Supplied
-
-David **Collard**, whose company Scale Facilitation was raided by Australian Federal Police last month, has a close relationship with Deputy Prime Minister Richard Marles.
