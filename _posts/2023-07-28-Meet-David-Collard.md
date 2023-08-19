@@ -3,7 +3,9 @@ layout: post
 title: "Meet David Collard accused of $150m tax fraud"
 categories: tech
 author: 
-- Robert Triggs
+- Alice Coster
+- Tom Minear
+- Ben Butler
 ---
 
 <a href="/rockycape2/assets/www-scalefacilitation-com-advisors-2022.pdf" target="_blank">www-scalefacilitation-com-advisors-2022.pdf</a> 
