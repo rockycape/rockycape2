@@ -6,6 +6,7 @@ author:
 - Robert Triggs
 ---
 
+<a href="/rockycape2/assets/www-scalefacilitation-com-advisors-2022.pdf" target="_blank">www-scalefacilitation-com-advisors-2022.pdf</a> 
 
 July 28, 2023 | Herald Sun: Web Edition Articles (Melbourne, Australia)
 
