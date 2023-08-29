@@ -3,6 +3,11 @@ layout: page
 title: bike
 permalink: /bike/
 ---
+
+[Boroondara Council Ward Map](https://cdn.boroondara.vic.gov.au/maps/wards5.html) 
+[Boroondara Council Maling Ward Map](https://cdn.boroondara.vic.gov.au/maps/malingwardmap.html) 
+
+
 <!-- Place <div> tag where you want the feed to appear -->
 <div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div><!-- The Javascript can be moved to the end of the html page before the </body> tag --><script type="text/javascript">
 /* curator-feed-default-feed-layout */
