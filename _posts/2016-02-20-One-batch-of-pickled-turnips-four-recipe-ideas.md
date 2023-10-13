@@ -117,7 +117,7 @@ Lamb bacon (see above)
 
 **7** Serve in bowls topped with turnips, crispy pieces of bacon and a poached egg, if you wish. Finally, sprinkle with the toasted cumin seeds.
 
-**The pink dip****: Beef kofte with turnip and yoghurt dip**
+**The pink dip****: Beef kofte with turnip and yoghurt dip**  
 Simple, cheap, and full of flavour. I'd recommend buying British pasture-fed, organic beef from an independent butcher as it is better for you, your community and the environment.
 
 ![Beef kofte with turnip and yoghurt dip](https://i.guim.co.uk/img/media/60a466bd7949bc368f02961b5964ac848b28d6f1/0_0_5642_3761/master/5642.jpg?width=445&dpr=1&s=none)
