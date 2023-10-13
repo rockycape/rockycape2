@@ -56,10 +56,7 @@ Juice ½ lemon
 
 **2** Put the shredded kale, chard and their finely cut stalks into a bowl and pour over the lemon juice, olive oil, and a drizzle of honey. Massage the dressing into the leaves to break them down. Mix in the cooked bulgur -- which by now should be chewy and delicious -- the cranberries or barberries, the herbs with their stalks and half the pickled turnips. Sprinkle the other half of pickled turnips over the top to decorate.
 
-**The wrap****: Broad bean falafel with pickled turnips**
-
----------------------------------------------------------
-
+**The wrap: Broad bean falafel with pickled turnips**
 Pickled turnips make the perfect accompaniment to any meat or vegetarian kebab. Broad beans make a particularly nice falafel. I find them softer and more flavourful than chickpeas.
 
 ![Broad bean falafel with pickled turnips](https://i.guim.co.uk/img/media/d77cf1e0469f4bfadccc68004549df5d6161fbd9/0_388_5568_3341/master/5568.jpg?width=445&dpr=1&s=none)
@@ -67,25 +64,15 @@ Pickled turnips make the perfect accompaniment to any meat or vegetarian kebab. 
 Serve in pitta or flatbread with the pickled turnips and some salad. Photograph: Helen Cathcart/The Guardian
 
 **Serves 4**
-
 200g dried split fava beans or chickpeas, soaked in water for 6 hours
-
 ½ small onion, peeled, roughly chopped
-
 1 garlic clove, roughly chopped
-
 6 sprigs coriander, stalks and leaves roughly chopped
-
 1 tsp ground cumin, toasted
-
 1 tsp baking powder
-
 1 tsp salt
-
 Rapeseed or canola oil for frying
-
 Pittas, salad (eg kofte recipe below) or coleslaw, to serve
-
 100g pickled turnips
 
 **1** Drain the fava beans or chickpeas, allow them to dry well, then blend to a paste along with the onion, garlic, coriander, cumin, baking powder and salt. Roll into 3cm balls and put on a tray in the fridge.
@@ -94,52 +81,26 @@ Pittas, salad (eg kofte recipe below) or coleslaw, to serve
 
 **3** Serve in pitta or flatbread with the pickled turnips and some salad.
 
-**The earthy supper****: Lamb bacon, lentils and pickled turnips**
-
-------------------------------------------------------------------
-
+**The earthy supper: Lamb bacon, lentils and pickled turnips**
 I first learned to make bacon at River Cottage. It's super-easy to make bacon yourself. This dry-cure method only takes five days -- it works for pork belly too. Thinly sliced lamb bacon can be fried and served with eggs for breakfast or, as here, cut into lardons and served with lentils, as below.
 
 **Serves 4**
-
 **For the lamb bacon**
-
 125g coarse sea salt
-
 50g muscovado or raw cane sugar
-
 2 bay leaves, roughly chopped
-
 1 sprig rosemary, picked
-
 1 breast of lamb, deboned (boned weight about 500-600g)
 
-[
-
-One batch of prunes, four different recipes | Get Ahead
-
-Read more
-
-](http://www.theguardian.com/lifeandstyle/2016/feb/13/prune-recipes-brownies-tart-tatin-pork-muesli-recipe-get-ahead)
-
 **For the dish**
-
 2 garlic cloves, peeled and crushed
-
 300g puy or green lentils
-
 300ml lamb, chicken or veg stock
-
 6 sprigs of mint, leaves and stalks finely chopped
-
 3 sprigs of parsley, leaves and stalks finely chopped
-
 100g pickled turnips, cut into cubes
-
 Lamb bacon (see above)
-
 2 tsp cumin seeds, toasted, to serve
-
 4 poached eggs to serve (optional)
 
 **1** First, make the lamb bacon. Mix the salt, sugar, bay leaves, and rosemary in a small bowl. Rub ⅓ of the mixture all over the lamb, making sure you get into all the hidden nooks and crannies. Reserve the rest. Place flat in a large ceramic, earthenware or plastic dish. Refrigerate, uncovered overnight.
@@ -157,9 +118,6 @@ Lamb bacon (see above)
 **7** Serve in bowls topped with turnips, crispy pieces of bacon and a poached egg, if you wish. Finally, sprinkle with the toasted cumin seeds.
 
 **The pink dip****: Beef kofte with turnip and yoghurt dip**
-
-------------------------------------------------------------
-
 Simple, cheap, and full of flavour. I'd recommend buying British pasture-fed, organic beef from an independent butcher as it is better for you, your community and the environment.
 
 ![Beef kofte with turnip and yoghurt dip](https://i.guim.co.uk/img/media/60a466bd7949bc368f02961b5964ac848b28d6f1/0_0_5642_3761/master/5642.jpg?width=445&dpr=1&s=none)
@@ -167,31 +125,19 @@ Simple, cheap, and full of flavour. I'd recommend buying British pasture-fed, or
 This dip is a very quick and easy recipe. It simply requires you to mix all the ingredients together and garnish with a few chilli flakes and sprigs of coriander. Photograph: Helen Cathcart/THE GUARDIAN
 
 **Serves 2**
-
 **For the kofte**
-
 A pinch each of coriander, cumin, thyme, pepper, oregano
-
 1 sprig of mint, stalk and leaf finely chopped
-
 1 tsp lemon zest
-
 1 tsp fine sea salt
-
 200g organic beef mince
-
 Light olive oil, for frying
 
 **For the yoghurt and turnip dip**
-
 50g pickled turnips
-
 50g dates, roughly chopped
-
 100g live yoghurt
-
 A pinch of aleppo pepper or chilli flakes, to serve
-
 6 whole sprigs of coriander, finely chopped
 
 **1** To make the kofte, knead the spices, mint, lemon zest and sea salt into the mince evenly. Split; roll into four balls.
