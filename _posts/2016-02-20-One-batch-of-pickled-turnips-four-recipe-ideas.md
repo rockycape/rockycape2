@@ -18,62 +18,38 @@ I love turnips and hold them with as much reverence as any vegetable. Turnips ar
 
 **How to prepare your batch of turnips**
 
-----------------------------------------
 
 A classic way to cook turnips across the Middle East is pickled in vinegar with beetroot: this process turns them a shocking pink. It's also a good way to preserve a large batch. They go with just about anything, their tart-yet-sweet flavour cutting through full-flavoured and/or rich dishes.
 
 **Makes about 750ml**
 
 350g turnips
-
 ½ small beetroot
-
 275ml water
-
 100ml cider vinegar
-
 30g salt
-
 1 tsp mustard seeds
-
 1 tsp sugar
-
 2 garlic cloves
-
 1 bay leaf
 
 **1** Top and tail the turnips and beetroot. Remove the skins, if they're tough. Cut into large batons. Set aside. Add the rest of the ingredients to a saucepan. Bring to the boil, stirring occasionally.
 
 **2** Meanwhile, clean a jar with hot water and dry it in the oven. Fill with turnips and beetroot, top with the hot pickling liquor. Put the lid on tightly and allow to cool. These will keep in the fridge for a month.
 
-**The raw winter salad****: Wholewheat bulgur, kale, honey and turnip salad (pictured above)
-
-**
-
-------------------------------------------------------------------------------------------------
-
+**The raw winter salad: Wholewheat bulgur, kale, honey and turnip salad (pictured above)**
 Kale and chard can be a bit tough when raw. This recipe includes a technique I learned while I was eating a lot of raw foods. Massaging the dressing into the leaves breaks them down and makes them quite delicious.
 
 **Serves 2-4**
-
 50g wholewheat or polished bulgur
-
 60g kale, stalks finely cut, leaves shredded
-
 60g chard, stalks finely cut, leaves shredded
-
 2 tbsp extra virgin olive oil
-
 Juice ½ lemon
-
 1 tbsp honey
-
 25g cranberries or barberries
-
 3 sprigs of dill, stalks finely cut, leaves roughly chopped
-
 3 sprigs of mint, stalks finely cut, leaves roughly chopped
-
 50g pickled turnips, diced
 
 **1** Put the bulgur in a small bowl and just about cover with warm water. Put a lid on top and leave for around 30‑60 minutes to fluff up.
